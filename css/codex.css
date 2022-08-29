@@ -1,0 +1,39 @@
+.textoEmpresarial {
+    margin-top: 10px;
+}
+
+#texto1 {
+    color: rgb(33, 99, 156);
+}
+
+.cliente {
+    width: 50px;
+    margin-right: 2rem;
+    padding-left: 1rem;
+}
+
+#nosotros {
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+}
+
+.btn-gradient:hover {
+    background-color: aqua;
+}
+
+@media (max-width: 600px) {
+    #nosotros {
+        width: 150px;
+        height: 150px;
+        border-radius: 150px;
+    }
+}
+
+#nos{
+    font-size: 60px;
+}
+
+#sol{
+    font-size: 60px;
+}
