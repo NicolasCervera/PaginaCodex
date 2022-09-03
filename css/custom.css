@@ -136,6 +136,10 @@ html .bg-primary {
     background-color: #0b508c !important;
 }
 
+.fas{
+    visibility: false;
+}
+
 .clientesCont {
     background-color: rgb(243, 243, 243) !important;
     /*border-color: #0b508c !important;*/

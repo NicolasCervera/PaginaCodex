@@ -16,6 +16,10 @@ html {
 	}
 }
 
+.fas{
+    visibility: false;
+}
+
 body {
 	background-color: #FFF;
 	color: rgb(119, 119, 119);

@@ -14113,7 +14113,7 @@ html.boxed .nav-secondary.sticky-active {
 }
 
 /* Scroll to Top */
-html .scroll-to-top {
+/* html .scroll-to-top {
 	transition: opacity 0.3s;
 	background: #404040;
 	border-radius: 4px 4px 0 0;
@@ -14130,9 +14130,9 @@ html .scroll-to-top {
 	min-width: 50px;
 	z-index: 1040;
 	font-size: 0.8em;
-}
+} */
 
-html .scroll-to-top:hover {
+/* html .scroll-to-top:hover {
 	opacity: 1;
 }
 
@@ -14143,9 +14143,9 @@ html .scroll-to-top.visible {
 html .scroll-to-top span {
 	display: inline-block;
 	padding: 0 5px;
-}
+} */
 
-html.lightbox-opened .scroll-to-top {
+/* html.lightbox-opened .scroll-to-top {
 	right: 27px;
 }
 
@@ -14154,7 +14154,7 @@ html.lightbox-opened .scroll-to-top {
 		display: none !important;
 	}
 }
-
+ */
 /* Scrollable */
 .scrollable {
 	overflow: hidden;
