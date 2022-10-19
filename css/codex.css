@@ -48,7 +48,7 @@ h4 {
     width:60px;
     height:60px;
     line-height: 63px;
-    bottom:18px;
+    bottom:80px;
     right:12px;
     background:#25d366;
     color:#FFF;
@@ -76,4 +76,8 @@ h4 {
 
 .fas{
     visibility: false;
+}
+
+#trabajamos{
+    text-align: center;
 }

@@ -136,10 +136,6 @@ html .bg-primary {
     background-color: #0b508c !important;
 }
 
-.fas{
-    visibility: false;
-}
-
 .clientesCont {
     background-color: rgb(243, 243, 243) !important;
     /*border-color: #0b508c !important;*/
@@ -208,7 +204,7 @@ html .btn-primary:hover {
     width: 60px;
     height: 60px;
     line-height: 63px;
-    bottom: 60px;
+    bottom: 80px;
     right: 7px;
     background: #25d366;
     color: #FFF;
